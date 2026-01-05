@@ -77,22 +77,25 @@ Refer Docs: https://docs.sarvam.ai/
 Go to → https://aistudio.google.com/app/apikey
 Sign in with Google
 Click "Create API Key" (in a new or existing project)
-Copy the key
+Copy the key.
 
-4. Docling – First-Time Installation (Important!)
+
+4.) Docling – First-Time Installation (Important!)
     Docling needs system-level tools for PDF parsing & OCR.
     Install System Dependencies First
     macOS
+    
     ```
     brew install poppler tesseract
     ```
+    
 Docling Official Install Guide:
 https://docling-project.github.io/docling/getting_started/installation/
 
 
 OFfical docs link : https://ai.google.dev/gemini-api/docs/api-key
 
-```
+
 
 ### Step 3: Run the Node.js Backend (Authentication & REST APIs) And frontend (react+vite)
 
